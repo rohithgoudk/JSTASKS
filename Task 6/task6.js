@@ -102,8 +102,7 @@ console.log("Login Success")
 console.log("Invalid Credentials")
 }
 
-
-// Task 7: Even Number Analyzer
+// Task 7
 
 let numbers=[10,15,20,25,30]
 
@@ -120,7 +119,7 @@ let first=numbers.find(n=>n>20)
 console.log(first)
 
 
-// Bonus Challenge
+// Bonus 
 
 let orders=[
 {id:1,amount:500,status:"delivered"},
